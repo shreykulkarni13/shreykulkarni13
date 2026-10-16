@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Shrey Kulkarni 👋</h1>
 
 <h3 align="center">
-  B.Tech Information Technology Student | Aspiring Software Engineer
+  B.Tech Information Technology Student | Developer & Problem Solver
 </h3>
 
 <p align="center">
